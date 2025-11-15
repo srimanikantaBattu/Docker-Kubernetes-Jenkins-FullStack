@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- Your Name - Initial work
+- Sri Manikanta Battu
 
 ## Acknowledgments
 
